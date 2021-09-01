@@ -2,7 +2,7 @@
 
 ![Joke Generator](https://drive.google.com/uc?export=view&id=1fv6-EAS365A0awQpDXc_fDMGVekQwIsn)
 
-[Link to the page](https://sharonjseg.github.io/Jokes-Generator/)
+[Link to the page](https://sharonjseg.github.io/jokes-generator/)
 
 ### Technologies used
 
