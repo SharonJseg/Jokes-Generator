@@ -1,0 +1,21 @@
+.page__container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 15px;
+    background: url(../../../images/chaplin.gif) no-repeat;
+    background-size: 500px;
+    background-position: 30% center;
+    position: relative;
+}
+
+
+@media screen and (max-width: 425px) {
+    .page__container {
+        background-size: 800px;
+        background-position: center center;
+    }
+
+}
